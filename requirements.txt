@@ -1,3 +1,3 @@
-bstreamlit
+streamlit
 pandas
-matplotliob
+matplotlib
